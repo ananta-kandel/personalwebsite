@@ -13,7 +13,8 @@ html {
 }
 a {
 	text-decoration: none;
-	color:white;
+	color:red;
+
 }
 .container {
 	min-height: 100vh;
